@@ -1,0 +1,12 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource>
+		<file>icons/home.png</file>
+		<file>icons/vehicle.png</file>
+		<file>icons/staff.png</file>
+		<file>icons/report.png</file>
+		<file>icons/action.png</file>
+		<file>icons/settings.png</file>
+		<file>icons/settings_2.png</file>
+	</qresource>
+</RCC>
